@@ -1,0 +1,15 @@
+torch>=2.1.0
+unsloth
+unsloth-zoo
+xformers
+trl
+transformers>=4.44.0
+accelerate>=0.26.0
+peft>=0.7.0
+bitsandbytes>=0.41.0
+pandas
+datasets
+numpy
+sacrebleu
+gradio
+tqdm

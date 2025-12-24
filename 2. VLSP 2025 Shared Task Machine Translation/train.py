@@ -15,7 +15,7 @@ load_in_4bit = True   # Bắt buộc True để tiết kiệm VRAM
 # CHỌN MODEL:
 model_name = "unsloth/Qwen2.5-3B-Instruct-bnb-4bit"
 
-output_model_name = "output/qwen_mt_3B_v1"
+output_model_name = "output/qwen_mt_3B_finetuned"
 
 # ------------------------------------------------------------------------
 # 1. LOAD MODEL & TOKENIZER
