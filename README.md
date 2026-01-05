@@ -173,4 +173,4 @@ To launch a web interface (using Gradio) for testing individual sentences:
 ```bash
 python3 demo.py
 ```
-Or access our hosted demo via [this link](https://c6f610ab2b864482a4.gradio.live/).
+Or access our hosted demo via [this link](https://36885fd598e10894bf.gradio.live/).
